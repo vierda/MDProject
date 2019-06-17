@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MediLOT</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_login">Login Error. Please check your username and password</string>
+
+    <string name="review_image">Review Image</string>
+    <string name="upload_image">Upload Image From Gallery</string>
+    <string name="take_new_image">Take a New Photo</string>
+    <string name="send_image">Send Image</string>
+    <string name="send_for_Approval">Send For Approval</string>
+    <string name="error_send_approval">Error sending image for approval</string>
+    <string name="success_send_approval">Image has been sent for approval</string>
+    <string name="pick_or_take_photo">Please take a photo or select one from gallery</string>
+
+    <string name="gallery">Gallery</string>
+
+    <string name="no_review_yet">No Review Yet</string>
+
+    <string name="approved">APPROVED</string>
+    <string name="rejected">REJECTED</string>
+    <string name="pending">PENDING</string>
+
+    <string name="approve">APPROVE</string>
+    <string name="reject">REJECT</string>
+    <string name="give_review">Give a Review</string>
+
+    <string name="submit_review_success">Review submitted successfully</string>
+    <string name="error_submit_review">Error occurs while submitting review, please contact administrator </string>
+    <string name="error_reviewed_by_two_reviewers">Image has reviewed by two reviewers</string>
+    <string name="error_same_reviewer">Image cannot be review by same reviewer</string>
+    <string name="error_rejecting_without_comment">Rejected action should be equipped with comments </string>
+    <string name="give_comment">Give your comment here</string>
+
+    <string name="close">CLOSE</string>
+</resources>
